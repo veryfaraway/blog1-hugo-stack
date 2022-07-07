@@ -6,7 +6,7 @@ date: 2022-07-06
 author: "야근반장"
 URL: "/2022/07/06/school-report/"
 image: "museums-victoria-n1LIveUPls4-unsplash.jpg"
-categories: [ "생활의 발견" ]
+categories: [ "생활의발견" ]
 tags:
     - 성적표
     - 초등학교
