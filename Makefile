@@ -1,6 +1,6 @@
-update: 
-	@echo "==> Update HUGO theme(submodule)"
-	git submodule update --remote
-
 server:
 	hugo server -D
+
+update: 
+	@echo "==> Update HUGO theme(submodule)"
+	hugo mod get -u
