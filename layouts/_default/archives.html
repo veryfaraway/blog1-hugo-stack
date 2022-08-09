@@ -1,6 +1,7 @@
 {{ define "body-class" }}template-archives{{ end }}
 {{ define "main" }}
     {{ partialCached "head/head" . }}
+
     <header>
         {{- $taxonomy := $.Site.GetPage "taxonomyTerm" "categories" -}}
         {{- $terms := $taxonomy.Pages -}}
@@ -13,9 +14,6 @@
                 {{ end }}
             </div>
         </div>
-        {{ end }}
-        {{ with .Site.Params.favicon }}
-            <link rel="shortcut icon" href="{{ . }}" />
         {{ end }}
     </header>
 
