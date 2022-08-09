@@ -17,6 +17,10 @@ links:
     description: Download and upload SVG images with CC0 public domain license.
     website: https://freesvg.org/
     image: https://freesvg.org/img/svg_logo.png
+  - title: SVG REPO
+    description: Browse 300.000+ SVG Vectors and Icons.
+    website: https://www.svgrepo.com
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/400px-SVG_Logo.svg.png
   - title: Unsplash
     description: The internet’s source of freely-usable images.
     website: https://unsplash.com/

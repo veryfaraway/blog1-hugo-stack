@@ -32,12 +32,14 @@ permalinks:
     post: /p/:slug/
     page: /:slug/
 
+enableEmoji: true
+
 params:
     mainSections:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: img/favicon.svg
+    favicon: favicon.svg
 
     footer:
         since: 2020
@@ -48,7 +50,8 @@ params:
         lastUpdated: 2006-01-02 15:04 KST
 
     sidebar:
-        emoji: 🍥
+        # 🍥 🙏 🌧️
+        emoji: 🌧️
         subtitle: 너희가 만일 믿음이 한 겨자씨만큼만 있으면 ... 너희가 못할 것이 없으리라.
         avatar:
             enabled: true
