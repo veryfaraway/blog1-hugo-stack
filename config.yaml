@@ -91,8 +91,8 @@ params:
             platform: github
             owner: veryfaraway
             repo: blog1-hugo-stack
-            clientId: 35204630f1a9b08775a1
-            clientSecret: a452d0cf8de5436d336019e960767833d69fe6d3
+            clientId: clientId
+            clientSecret: clientSecret
             autoCreateIssue: false
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html

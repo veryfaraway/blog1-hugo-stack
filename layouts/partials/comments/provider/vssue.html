@@ -17,14 +17,11 @@
                         autoCreateIssue: {{ default false .autoCreateIssue }},
                         owner: "{{ .owner }}",
                         repo: "{{ .repo }}",
-                        clientId: "{{ .clientId }}",
-                        clientSecret: "{{ .clientSecret }}",
+                        clientId: "{{ .Site.Params.vssue.client.id }}",
+                        clientSecret: "{{ .Site.Params.vssue.client.secret }}",
                     },
                 },
             }),
     });
 </script>
 {{- end -}}
-
-test: {{ .Site.Params.vssue.client.id }}
-{{ .Site.Params.vssue.client.secret }}
