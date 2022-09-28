@@ -12,25 +12,43 @@ tags:
     - 전기차
     - 볼보
     - XC40
-draft: true
+draft: false
 ---
 
-작년부터 전기차에 관심을 가지게 되서 여러 차량 예약을 걸어두었었는데 이번에 볼보에서도 전기차를 출시한다는 소식을 듣고 바로 예약을 했습니다. :heart_eyes:
+작년부터 전기차에 관심을 가지게 돼서 여러 차량 예약을 걸어두었었는데 이번에 볼보에서도 전기차를 출시한다는 소식을 듣고 바로 예약을 했습니다. :heart_eyes:
 
-![](https://d33cppsvanqv9b.cloudfront.net/photos/objects/2022/my-new-volvo-xc40-recharge/IMG_0644.jpeg)
+예약 차량 중에 볼보 XC40이 가장 빨리 출고가 되었네요.
 
-계약일: 2022년 2월초
+- 예약일: 2022년 2월 중순
+- 출고일: 2022년 4월 28일
+- 외장 색상: 오닉스 블랙
+- 내장 색상: 차콜
+- 추가 선택 옵션: 플라스틱 매트, 안경 홀더
+- 딜러 서비스: 현금 할인
 
-출고일: 2022년 4월 28일
+!["전면"](https://res.cloudinary.com/doal3ofyr/image/upload/l_logo-car,w_600,o_50,e_brightness:600,x_200,y_-700/q_auto:best/stuff/xc40_recharge/IMG_0646_lavzrj.jpg)
+!["후면"](https://res.cloudinary.com/doal3ofyr/image/upload/l_logo-car,w_600,o_40,e_brightness:400,x_250,y_100/q_auto:best/stuff/xc40_recharge/IMG_0649_o2f00h.jpg)
 
-- 외장색상 :  오닉스 블랙
+눈치채셨는지 모르겠는데 예약한지 약 두 달 만에 차를 수령했는데 전시차입니다. 볼보는 전시차라도 할인은 없습니다. 전시차 장점은 차를 빨리 받을 수 있다는 점과 XC40에만 해당되는 것인데 시트가 가죽 시트입니다. 원래 C40/XC40은 비건 재료로 직물 시트인데 초기 모델만 가죽시트로 일부 들어왔었습니다.
 
-- 내장색상 :  차콜
+!["1열"](https://res.cloudinary.com/doal3ofyr/image/upload/l_logo-car,w_600,o_50,e_brightness:50,x_650,y_-950/q_auto:best/stuff/xc40_recharge/IMG_0647_om5zgd.jpg)
+!["2열"](https://res.cloudinary.com/doal3ofyr/image/upload/l_logo-car,w_600,o_50,e_brightness:50,x_500,y_-900/q_auto:best/stuff/xc40_recharge/IMG_0648_tlgzgu.jpg)
+![틴팅 작업전](https://res.cloudinary.com/doal3ofyr/image/upload/l_logo-car,w_600,o_50,e_brightness:600,x_200,y_-550/q_auto:best/stuff/xc40_recharge/IMG_0644_ceyhn8.jpg)
 
-- 선택사양 :  플라스틱 매트
+간단하게 특징을 언급하면,
 
-- 사진 : 
+- 듀얼 모터 408마력  
+- 20인치 휠
+- 티맵, 아리아 내장
+- OTA 지원
+- HUD, 통풍시트 없음, 2열 시트 각도 조절 안됨
 
-- 출고 소감 :  전시차입니다. 전시차도 여러종류가 있나보네요. 전 가죽시트입니다.
+그리고 94% 충전 후 주행 가능 거리 인증입니다.
 
-모유튜버가 주행거리 짧다고 사지말라고 그러던데 뭐 주행거리 몇십킬로 더 늘어나도 충전 스트레스 받는건 여전할 것 같아서 그냥 빨리 받는차 선택했습니다. 딜러 서비스는 안받고 그냥 현금할인 받았습니다.
+![](https://res.cloudinary.com/doal3ofyr/image/upload/q_auto/stuff/xc40_recharge/IMG_1017_mgyzff.jpg)
+
+
+
+
+
+
