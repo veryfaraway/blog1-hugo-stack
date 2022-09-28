@@ -45,7 +45,7 @@ draft: false
 
 그리고 94% 충전 후 주행 가능 거리 인증입니다.
 
-![](https://res.cloudinary.com/doal3ofyr/image/upload/q_auto/stuff/xc40_recharge/IMG_1017_mgyzff.jpg)
+![](https://res.cloudinary.com/doal3ofyr/image/upload/q_auto,w_400/stuff/xc40_recharge/IMG_1017_mgyzff.jpg)
 
 
 
