@@ -29,8 +29,8 @@ DefaultContentLanguage: ko
 hasCJKLanguage: true
 
 permalinks:
-    post: /p/:slug/
-    page: /:slug/
+    post: /:section/:year/:yearday/:slug/
+    page: /:section/:slug/
 
 enableEmoji: true
 

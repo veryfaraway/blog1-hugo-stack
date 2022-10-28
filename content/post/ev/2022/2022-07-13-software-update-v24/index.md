@@ -6,7 +6,7 @@ description: "소프트웨어 V2.4 업데이트 내역"
 date: 2022-10-24
 author: "야근반장"
 slug: "software-update-v24"
-image: "https://www.volvocars.com/images/v/-/media/market-assets/korea/applications/dotcom/images/pdp/08_xc40_gallery-18_2560x1440.jpg"
+image: "https://www.volvocars.com/images/v/-/media/market-assets/korea/applications/pdpspecificationpage/xc40-electric/7_xc40-recharge-tmap-infotainment_2560x1440px.jpg"
 categories: [ "마굿간" ]
 tags:
     - 전기차
