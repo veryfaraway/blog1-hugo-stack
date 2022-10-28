@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "볼보 XC40/C40 Recharge OTA 소프트웨어 업데이트"
+title: "볼보 XC40/C40 Recharge OTA 소프트웨어 업데이트(v2.4)"
 subtitle: "볼보 최신 소프트웨어 업데이트"
 description: "소프트웨어 V2.4 업데이트 내역"
 date: 2022-10-24
