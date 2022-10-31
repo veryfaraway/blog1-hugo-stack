@@ -6,7 +6,7 @@ description: "본인과 친구에게 모두 프레딧 5천원 적립금을 드�
 date: 2022-10-31
 author: "야근반장"
 slug: "fredit-friend-id"
-image: "https://image.hyfresh.co.kr/webimg/2022/09/26/1664176144454.jpg"
+image: "fredit_event.jpg"
 categories: [ "자린고비" ]
 tags:
     - 이벤트
