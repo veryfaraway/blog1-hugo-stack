@@ -5,7 +5,7 @@ subtitle: "feat. 예약 차량 빨리 받는 팁"
 description: "2022년 10월 기준 볼보 코리아 딜러사 현황 정리"
 date: 2022-10-07
 author: "야근반장"
-URL: "/2022/10/07/cars/volvo/partners"
+slug: "volvo-partners"
 image: "https://pictures.dealer.com/v/volvoofcaryvcna/1648/20d86cebd6c6ab12d4c44c8dd64522d8x.jpg"
 categories: [ "마굿간" ]
 tags:

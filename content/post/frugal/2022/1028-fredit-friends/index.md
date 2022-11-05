@@ -4,6 +4,7 @@ title: "프레딧 친구 추천인 아이디"
 subtitle: "프레딧 친구 추천 이벤트"
 description: "본인과 친구에게 모두 프레딧 5천원 적립금을 드립니다."
 date: 2022-10-31
+lastmod: 2022-10-31
 author: "야근반장"
 slug: "fredit-friend-id"
 image: "fredit_event.jpg"
