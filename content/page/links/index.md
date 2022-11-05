@@ -13,6 +13,10 @@ links:
     description: The world’s fastest framework for building websites.
     website: https://gohugo.io/
     image: https://avatars.githubusercontent.com/u/29385237?s=200&v=4
+  - title: HUGO Stack Theme
+    description: Documentation of this blog theme.
+    website: https://stack.jimmycai.com/
+    image: https://avatars.githubusercontent.com/u/29385237?s=200&v=4
   - title: Free SVG
     description: Download and upload SVG images with CC0 public domain license.
     website: https://freesvg.org/
