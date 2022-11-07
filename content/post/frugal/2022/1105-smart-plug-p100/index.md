@@ -7,7 +7,7 @@ date: 2022-11-05
 lastmod: 2022-11-05
 author: "야근반장"
 slug: "tapo-p100"
-image: "https://static.tp-link.com/Tapo-P100_Thumb_5_2000x2000_normal_1615962068367b.jpg"
+image: "tp-link-tapo-p100.jpg"
 categories: [ "자린고비" ]
 tags:
     - 알뜰구매
@@ -17,8 +17,6 @@ draft: false
 ---
 
 ![가격정보](coupang-tapo-p100.png "Tapo P100")
-
-> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
 쿠팡에서 와우 회원 대상으로 [티피링크 Tapo P100 4개 세트](https://link.coupang.com/a/E1L6H)를 할인해서 40,900원에 판매하고 있습니다.
 
@@ -34,3 +32,5 @@ draft: false
 
 참고로 [2개 세트](https://link.coupang.com/a/E1Pv1)도 동일하게 할인 중이지만 할인율은 4개짜리가 더 큽니다.
 
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
