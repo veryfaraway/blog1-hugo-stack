@@ -22,7 +22,7 @@ draft: false
 
 3세대 모델에 비해 저장 공간과(32GB vs 64GB,128GB) CPU가 차이 나지만(A12 vs A15) 스트리밍 서비스를 주로 이용한다면 큰 차이점을 느낄 수 없고 3세대 모델은 이더넷을 사용하려면 128GB 모델을 구입해야 하지만 2세대는 32GB 모델에도 이더넷 포트가 포함되어 있는 것이 장점입니다. 무엇보다도 환율이 올랐지만 $99.99 가격은 아주 메리트가 있습니다.
 
-![Apple TV 4K 구성품](https://m.media-amazon.com/images/I/617Cuv65c5S._AC_SL1500_.jpg)
+![Apple TV 4K 구성품](https://m.media-amazon.com/images/I/617Cuv65c5S._AC_SL1500_.jpg "Apple TV 4K 구성품")
 
 미국 아마존에서 구입 시 위 그림처럼 전원 플러그가 110V 용으로 제공되지만 모든 애플 기기가 그렇듯이 Apple TV도 110V/220V 모두 지원하기 때문에 별도의 변압기 필요 없이 돼지코만 구입해서 사용이 가능합니다. 전원 케이블이 분리형이기 때문에 [220V형 케이블](https://link.coupang.com/a/E66L7)을 따로 구매해서 사용해도 됩니다.
 
