@@ -4,6 +4,7 @@ title: "볼보 XC40/C40 Recharge OTA 소프트웨어 업데이트(v2.4)"
 subtitle: "볼보 최신 소프트웨어 업데이트"
 description: "소프트웨어 V2.4 업데이트 내역"
 date: 2022-10-24
+lastmod: 2022-11-20
 author: "야근반장"
 slug: "software-update-v24"
 image: "https://www.volvocars.com/images/v/-/media/market-assets/korea/applications/pdpspecificationpage/xc40-electric/7_xc40-recharge-tmap-infotainment_2560x1440px.jpg"
@@ -29,3 +30,6 @@ draft: false
 겨울이 다가오는데 heat pump 개선이 반갑고 파워트레인 최적화로 전비 향상이 기대됩니다.
 
 참고로 2.3 버전은 문제가 있어서 다운로드 센터에서 제거가 된 상태라고 하며 v2.2에서 v2.4로 바로 업그레이드하시면 됩니다.
+
+> 이 소프트웨어 릴리스는 서비스 센터에서만 제공되며, OTA로 제공되지 않습니다. V2.4의 내용은 [다음 OTA 릴리스]({{< ref "/post/ev/2022/1121-software-update-v25" >}} "2.5 버전")에 포함될 예정입니다.
+
